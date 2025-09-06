@@ -8,4 +8,8 @@ VBE=VG0-b1*T
 
 Ctat :
 
-Image
+<img width="1800" height="349" alt="image" src="https://github.com/user-attachments/assets/d9c6959b-5e91-4625-be7f-edc4b5385772" />
+
+<img width="1624" height="812" alt="image" src="https://github.com/user-attachments/assets/680d3368-aba0-40a6-a071-04273f69a17d" />
+
+<img width="1738" height="591" alt="image" src="https://github.com/user-attachments/assets/16e3082c-026e-4879-94ac-659fe26c2a73" />
