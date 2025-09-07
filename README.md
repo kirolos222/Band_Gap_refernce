@@ -27,3 +27,11 @@ the circuit in the red is the BGR , in the yellow is the startup circuit (a swit
 transient beheviour :
 
 <img width="991" height="631" alt="image" src="https://github.com/user-attachments/assets/7a0e6190-d72f-49a5-b635-23c04daf8c52" />
+
+phase margin :
+
+<img width="1658" height="642" alt="image" src="https://github.com/user-attachments/assets/314ed56f-8128-434b-bbe5-0d2f42222e14" />
+
+gain margin:
+
+<img width="1670" height="647" alt="image" src="https://github.com/user-attachments/assets/001da9be-f680-486f-8f76-02a7cecd4b4d" />
