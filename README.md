@@ -18,3 +18,5 @@ ztat behavior :
 
 <img width="1652" height="648" alt="image" src="https://github.com/user-attachments/assets/8f305ae3-ee0a-4eed-adbb-bbae1d2aa3e2" />
 
+need of an ota as a self biasing circuit to bias VB at the right operating point:
+
