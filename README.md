@@ -18,5 +18,8 @@ ztat behavior :
 
 <img width="1652" height="648" alt="image" src="https://github.com/user-attachments/assets/8f305ae3-ee0a-4eed-adbb-bbae1d2aa3e2" />
 
-need of an ota as a self biasing circuit to bias VB at the right operating point:
+need of an ota as a self biasing circuit to bias VB at the right operating point & a startup circuit to avoid 0 current bias point:
 
+<img width="1360" height="427" alt="image" src="https://github.com/user-attachments/assets/420f3fc5-d723-4f58-900b-d2775fcf73d1" />
+
+the circuit in the red is the BGR , in the yellow is the startup circuit (a switch ) and in the green is the self bias circuit.
