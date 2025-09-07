@@ -23,3 +23,7 @@ need of an ota as a self biasing circuit to bias VB at the right operating point
 <img width="1360" height="427" alt="image" src="https://github.com/user-attachments/assets/420f3fc5-d723-4f58-900b-d2775fcf73d1" />
 
 the circuit in the red is the BGR , in the yellow is the startup circuit (a switch ) and in the green is the self bias circuit.
+
+transient beheviour :
+
+<img width="991" height="631" alt="image" src="https://github.com/user-attachments/assets/7a0e6190-d72f-49a5-b635-23c04daf8c52" />
