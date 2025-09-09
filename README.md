@@ -35,3 +35,8 @@ phase margin :
 gain margin:
 
 <img width="1670" height="647" alt="image" src="https://github.com/user-attachments/assets/001da9be-f680-486f-8f76-02a7cecd4b4d" />
+
+Post_layout_simulation:
+
+<img width="1205" height="561" alt="image" src="https://github.com/user-attachments/assets/ecc82820-cfb2-4c5c-a48d-b45c67596316" />
+
