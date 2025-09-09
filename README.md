@@ -38,5 +38,7 @@ gain margin:
 
 Post_layout_simulation:
 
+BGR_layout:
+
 <img width="1205" height="561" alt="image" src="https://github.com/user-attachments/assets/ecc82820-cfb2-4c5c-a48d-b45c67596316" />
 
