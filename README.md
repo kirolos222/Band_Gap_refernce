@@ -42,3 +42,8 @@ BGR_layout:
 
 <img width="1205" height="561" alt="image" src="https://github.com/user-attachments/assets/ecc82820-cfb2-4c5c-a48d-b45c67596316" />
 
+Self bias + startup circuit layout :
+
+<img width="786" height="583" alt="image" src="https://github.com/user-attachments/assets/c120e782-91e5-4548-9611-78be07991c87" />
+
+
