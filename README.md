@@ -49,4 +49,15 @@ Self bias + startup circuit layout :
 
 total circuit layout :
 
-<img width="1461" height="594" alt="image" src="https://github.com/user-attachments/assets/e890e4ca-0300-4fed-9e07-0403a1e79243" />
+<img width="829" height="351" alt="image" src="https://github.com/user-attachments/assets/492be1ac-1e19-495f-bcf7-5cf06721c8f3" />
+
+
+ztat behavior after layout :
+
+<img width="1674" height="633" alt="image" src="https://github.com/user-attachments/assets/c0ee42e4-a37a-49bc-8c43-afd30040c058" />
+
+transient behaviour :
+
+<img width="1671" height="663" alt="image" src="https://github.com/user-attachments/assets/d360cfc3-2458-431f-8781-0dd3eaa25d66" />
+
+
