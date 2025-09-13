@@ -60,4 +60,7 @@ transient behaviour :
 
 <img width="1657" height="625" alt="image" src="https://github.com/user-attachments/assets/4bc67c70-b4f3-4674-b1b4-900d0fa471c0" />
 
+power consumption : 
+
+<img width="1919" height="647" alt="image" src="https://github.com/user-attachments/assets/7dc0db10-c98f-4002-9905-be025c227a57" />
 
